@@ -1,4 +1,5 @@
 to get a basic knowledge about HTML and CSS I saw this course on udemy: https://www.udemy.com/course/web-development-foundation/
+
 there were some projects on this course and I have done some of it that can be seen below:
 
 profilecard project:
